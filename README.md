@@ -8,9 +8,10 @@ user.js and userChrome files for minimal firefox UI
 * black theme by XI
 * firefox sidebar
 
-## startpage used
+## Extras
 
-minimal_startpage: (https://hari-c137.github.io)
+startpage used: (https://hari-c137.github.io)
+user.js derived from: (https://github.com/yokoffing/Betterfox)
 
 ## Screenshots
 
