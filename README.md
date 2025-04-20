@@ -10,7 +10,7 @@ user.js and userChrome files for minimal firefox UI
 
 ## Extras
 
-startpage used: (https://hari-c137.github.io)
+startpage used: (https://hari-c137.github.io) <br />
 user.js derived from: (https://github.com/yokoffing/Betterfox)
 
 ## Screenshots
