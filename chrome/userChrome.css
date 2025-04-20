@@ -1,20 +1,9 @@
-/*
-*  Hi~
-*
-*  The theme Another Oneline uses code from
-*  👉 https://github.com/JarnotMaciej/Essence 👈 Thank you~~ 🤗
-*/
-
-
-
-/* Just comment the lines or blocks for the elements you WANT to see */
-
 /* Menu button */
 #PanelUI-button {
   -moz-box-ordinal-group: 0 !important;
   order: -2 !important;
   margin: 2px !important;
-  display: none !important; /* uncomment this line to hide the menu button */
+  display: none !important; 
 }
 
 /* Window control buttons (min, resize and close) */
