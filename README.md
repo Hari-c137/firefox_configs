@@ -7,6 +7,8 @@ user.js and userChrome files for minimal firefox UI
 * ublock origin 
 * black theme by XI
 * firefox sidebar
+* Tridactyl
+* Sponserblock
 
 ## Extras
 
@@ -19,3 +21,7 @@ user.js derived from: (https://github.com/yokoffing/Betterfox)
 ![firefox.png](https://github.com/Hari-c137/firefox_configs/blob/main/assets/firefox.png)
 
 
+##Misc 
+
+  Important: Before setting up userChrome.css, make sure you've installed all your necessary add-ons.
+  Installing add-ons after applying the custom userChrome.css might not work properly (no idea why... :/).
